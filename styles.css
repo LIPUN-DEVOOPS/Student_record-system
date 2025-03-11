@@ -146,18 +146,4 @@ body {
           font-size: 0.9em;
       }
   }
-  /* Footer Styles */
-.footer {
-      margin-top: 20px;
-      padding: 15px;
-      /* background: #ff4b2b; */
-      color: black;
-      width: 100%;
-      height: auto;
-      text-align: center;
-      font-size: 1em;
-      position: absolute;
-      bottom: 0;
-      left: 0;
-  }
-  
+
