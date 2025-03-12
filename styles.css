@@ -119,6 +119,12 @@ body {
           width: 90%;
           padding: 20px;
       }
+         body {
+            padding: 10px;
+            background-image: url('bg3.png');
+      background-repeat: no-repeat;
+      background-size: cover;
+      }
       button, input {
           width: 100%;
       }
@@ -132,6 +138,12 @@ body {
   @media screen and (max-width: 480px) {
       body {
           padding: 10px;
+            
+            padding: 10px;
+            background-image: url('bg3.png');
+      background-repeat: no-repeat;
+      background-size: cover;
+      
       }
       .container {
           width: 95%;
